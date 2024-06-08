@@ -1,0 +1,10 @@
+.column{
+    background-color: rgb(42, 86, 168);
+    border-radius: 25px;
+    padding: 55px;
+    width: 100%;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
